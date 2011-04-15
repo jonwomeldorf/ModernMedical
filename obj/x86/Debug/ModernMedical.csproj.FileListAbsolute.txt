@@ -1,0 +1,5 @@
+c:\users\jon womeldorf\documents\visual studio 2010\Projects\ModernMedical\ModernMedical\bin\Debug\ModernMedical.exe
+c:\users\jon womeldorf\documents\visual studio 2010\Projects\ModernMedical\ModernMedical\bin\Debug\ModernMedical.pdb
+c:\users\jon womeldorf\documents\visual studio 2010\Projects\ModernMedical\ModernMedical\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jon womeldorf\documents\visual studio 2010\Projects\ModernMedical\ModernMedical\obj\x86\Debug\ModernMedical.exe
+c:\users\jon womeldorf\documents\visual studio 2010\Projects\ModernMedical\ModernMedical\obj\x86\Debug\ModernMedical.pdb
